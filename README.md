@@ -1,18 +1,26 @@
-### 👨‍💻 [Bruno Kauan]
+# 👨‍💻 Davi Hugo 
 
-**`Software Developer`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Bruno, tenho 21 anos . Sou formado discente na Universidade Federal do Maranhão. Tenho conhecimento abrangente em diversas linguagens de programação, com especialização em tecnologias voltadas para o desenvolvimento Backend e análise de dados. Meu foco é a área da tecnologia e isso me impulsiona a buscar constantemente novos aprendizados, que me aprimoram e acompanham as últimas tendências dos diversos setores do mercado.
+Me chamo Bruno, tenho 21 anos . Sou discente do curso de Ciência e Tecnologia na Universidade Federal do Maranhão. Tenho conhecimento abrangente em diversas linguagens de programação, com especialização em tecnologias voltadas para o desenvolvimento Backend e análise de dados. Meu foco é a área da tecnologia e isso me impulsiona a buscar constantemente novos aprendizados, que me aprimoram e acompanham as últimas tendências dos diversos setores do mercado. 
 
 <p align="center">
-    <a href="[seu-linkedin]">
+    <a href="https://davihugo.github.io/meu-portfolio/">
         <img 
-            alt="[seu-linkedin]" 
+            alt="meu-portfolio" 
+            title="Portfólio" 
+            src="https://custom-icon-badges.demolab.com/badge/Portfólio-E05D44?style=for-the-badge&logo=video&logoColor=white&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/davi-hugo-dev/">
+        <img 
+            alt="davi-hugo-dev" 
             title="LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-E1AD0E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C79600"
         />
     </a>
 </p>
+
 
 ---
 
@@ -141,14 +149,14 @@ Me chamo Bruno, tenho 21 anos . Sou formado discente na Universidade Federal do 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=[seu-usuario-github]&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=davihugo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-usuario-github]&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davihugo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
