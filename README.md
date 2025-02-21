@@ -38,19 +38,15 @@ Me chamo Bruno, tenho 21 anos. Sou discente do curso de Ciência e Tecnologia na
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center" style="display: flex; flex-direction: row; gap: 10px;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=bkauan099&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkauan099&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkauan099&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
