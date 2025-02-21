@@ -4,6 +4,16 @@
 
 Me chamo Bruno, tenho 21 anos. Sou discente do curso de Ciência e Tecnologia na Universidade Federal do Maranhão. Tenho conhecimento abrangente em diversas linguagens de programação, com especialização em tecnologias voltadas para o desenvolvimento Backend e análise de dados. Meu foco é a área da tecnologia e isso me impulsiona a buscar constantemente novos aprendizados, que me aprimoram e acompanham as últimas tendências dos diversos setores do mercado.
 
+<p align="center">
+    <a href="[https://www.linkedin.com/in/davi-hugo-dev/](https://www.linkedin.com/in/bruno-kauan-rodrigues-silva-180a48233/)">
+        <img 
+            alt="Bruno Kauan/dev" 
+            title="LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-E1AD0E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C79600"
+        />
+    </a>
+</p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
