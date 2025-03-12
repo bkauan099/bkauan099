@@ -38,8 +38,6 @@ Olá, me chamo Bruno, tenho 21 anos. Sou discente do curso de Ciência e Tecnolo
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 <p align="left" style="display: flex; flex-direction: row;">
   <img 
     alt="GitHub Stats" 
